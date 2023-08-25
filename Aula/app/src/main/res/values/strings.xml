@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string name="TextViewUpdateNome">Alterei o nome principal</string>
+    <string name="TextViewPnome">Primeiro Nome</string>
+    <string name="TextViewPsobrenome">Sobrenome</string>
+    <string name="EditTextNome">Digite o Primeiro Nome:</string>
+    <string name="EditTextSobrenome">Digite o Sobrenome:</string>
+    <string name="Button">Enviar</string>
+    <string name="TextViewPNome">Primeiro Nome</string>
+
+</resources>
